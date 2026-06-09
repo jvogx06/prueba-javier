@@ -1,0 +1,7 @@
+git clone https://github.com/jvogx06/prueba-javier.git
+cd prueba-javier
+git checkout -b claude/trusting-galileo-6mk8lh
+# Copia calculadora.html aquí
+git add calculadora.html
+git commit -m "Añadir calculadora sencilla en HTML/CSS/JS"
+git push -u origin claude/trusting-galileo-6mk8lh
